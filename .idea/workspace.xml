@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="982fb30c-c43a-45e3-9a2a-3a32551c85f5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/UI/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UI/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/wgu/d387_sample_code/D387SampleCodeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testCode/AppMainCode.java" afterDir="false" />
@@ -165,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735763073898</updated>
       <workItem from="1735763075188" duration="5963000" />
-      <workItem from="1735773085149" duration="1607000" />
+      <workItem from="1735773085149" duration="3425000" />
     </task>
     <servers />
   </component>
